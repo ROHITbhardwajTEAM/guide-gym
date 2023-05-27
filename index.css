@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.container {
+    width: 334px;
+    height: 738px;
+    padding: 5px;
+    margin: 5px;
+    margin: auto;
+    border: 2px solid;
+    background: lightgray;
+}
+
+img {
+    width: 165px;
+    height: 165px;
+    border-radius: 5px;
+}
+
+.first {
+
+    display: inline-block;
+    width: 165px;
+    height: 165px;
+    /* border:2px solid rgb(157, 33, 33); */
+}
+
+p {
+    width: 160px;
+    height: 40px;
+}
+
+p,
+h3 {
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+
+}
+
+h1 {
+    width: 344px;
+    height: auto;
+    border: 2px solid;
+}
